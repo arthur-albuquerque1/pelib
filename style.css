@@ -1,0 +1,55 @@
+#h1 {
+    background-color: yellow;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    font-family: Bebas;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;  
+}
+body {
+    background-color: black;
+}
+@font-face {
+    font-family: Bebas;
+    src: url(BebasNeue-Regular.ttf);
+}
+.links {
+    text-decoration: none;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    font-family: Bebas;
+    background-color: yellow;
+    font-size: 25pt;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    left: 40.5%;
+    position: relative;
+}
+.links:hover {
+    background-color: grey;
+}
+.conteudo {
+    background-color: yellow;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    font-family: Bebas;
+    padding: 5px;
+    border-radius: 5px;
+}
+.linkstexto {
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    font-family: Bebas;
+    text-decoration: none;
+}
+.conteudo:hover {
+    background-color: grey;
+}
+footer {
+    text-align: center;
+    color: white;
+    font-family: Bebas;
+}
+
