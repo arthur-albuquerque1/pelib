@@ -3,7 +3,7 @@ Fiz essa "beta" de site para uma página de um amigo meu, utilizando somente HTM
 
 
 
-<a href="">Acesse o site aqui</a> <br>
+<a href="https://arthur-albuquerque1.github.io/pelib/">Acesse o site aqui</a> <br>
 Tecnologias utilizadas:
 <ul>
   <li>HTML</li>
